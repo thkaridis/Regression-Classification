@@ -4,7 +4,7 @@ You are provided with two datasets, about wine quality. The identity of the data
 
 • Wine Quality Dataset Identity: http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/winequality.names
 • The dataset can be found in the following link: http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/
-• Red wine: http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+• Red wine: http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/winequality-red.cs
 • White wine: http://mlr.cs.umass.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
 
 Using this dataset, you are requested to learn a set of models according to the following restrictions:
